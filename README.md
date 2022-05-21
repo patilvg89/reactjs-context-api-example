@@ -3,7 +3,7 @@
 
 An easy to understand example of using the Context Api
 </br>
-https://github.com/patilvg89/reactjs-context-api-example/edit/main
+https://github.com/patilvg89/reactjs-context-api-example/tree/main
 
 Check the “cost” of rendering using Profiler(Chrome extension).
 </br>
